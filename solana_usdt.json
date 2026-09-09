@@ -1,0 +1,34 @@
+{
+  "name": "USD//T",
+  "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+  "timestamp": 1788965155829,
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "tether",
+    "usdt",
+    "stablecoin"
+  ],
+  "tokens": [
+    {
+      "chainId": "solana",
+      "address": "3ZjUcpauSWWiJJ2XhbixqJHRn6AX6XNVWmz3gpPy7C73",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1,
+        "explorerUrl": "https://solscan.io/token/3ZjUcpauSWWiJJ2XhbixqJHRn6AX6XNVWmz3gpPy7C73"
+      }
+    }
+  ]
+}
