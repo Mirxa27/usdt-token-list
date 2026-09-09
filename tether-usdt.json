@@ -1,0 +1,16 @@
+{
+  "name": "Tether USD",
+  "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+  "keywords": ["tether", "usdt", "stablecoin", "tether usd"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x6c6804158bbd0b550e62b2386fbea6142F11113F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+      "tags": ["verified"]
+    }
+  ]
+}
