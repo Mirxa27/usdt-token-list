@@ -3,15 +3,11 @@
   "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
   "keywords": ["usdt", "theter", "stablecoin"],
   "timestamp": "2026-09-10T00:00:00Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
+  "version": {"major": 2, "minor": 0, "patch": 0},
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xAd3134495C47bc6461c3448eece936B7D83ea86f",
+      "address": "0xbCf4858AE5B16e8D903c4e39E4F33DEBb58Cae31",
       "name": "USDT Theter",
       "symbol": "USDT",
       "decimals": 18,
