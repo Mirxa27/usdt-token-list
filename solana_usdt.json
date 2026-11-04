@@ -1,9 +1,9 @@
 {
-  "name": "USD//T",
-  "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
-  "timestamp": 1788965155829,
+  "name": "Tether USD",
+  "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+  "timestamp": "2026-11-04T00:00:00Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -15,19 +15,20 @@
   "tokens": [
     {
       "chainId": "solana",
-      "address": "3ZjUcpauSWWiJJ2XhbixqJHRn6AX6XNVWmz3gpPy7C73",
-      "name": "USDT",
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
       "tags": [
         "stablecoin",
         "verified"
       ],
       "extensions": {
         "color": "#26A17B",
-        "priceUsd": 1,
-        "explorerUrl": "https://solscan.io/token/3ZjUcpauSWWiJJ2XhbixqJHRn6AX6XNVWmz3gpPy7C73"
+        "priceUsd": 1.0,
+        "coingeckoId": "tether",
+        "website": "https://tether.to"
       }
     }
   ]

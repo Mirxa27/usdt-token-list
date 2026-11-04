@@ -1,17 +1,162 @@
 {
-  "name": "USDT Theter",
-  "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
-  "keywords": ["usdt", "theter", "stablecoin"],
-  "timestamp": "2026-09-10T00:00:00Z",
-  "version": {"major": 2, "minor": 0, "patch": 0},
+  "name": "Tether USD",
+  "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+  "keywords": [
+    "tether",
+    "usdt",
+    "stablecoin",
+    "tether usd"
+  ],
+  "timestamp": "2026-11-04T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens pegged to a fiat currency"
+    },
+    "verified": {
+      "name": "Verified",
+      "description": "Token verified by the list maintainer"
+    }
+  },
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xbCf4858AE5B16e8D903c4e39E4F33DEBb58Cae31",
-      "name": "USDT Theter",
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
       "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png"
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "bridgeInfo": {},
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://bscscan.com/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://etherscan.io/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://polygonscan.com/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 43114,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://snowtrace.io/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://arbiscan.io/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://optimistic.etherscan.io/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
+    },
+    {
+      "chainId": 8453,
+      "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ],
+      "extensions": {
+        "color": "#26A17B",
+        "priceUsd": 1.0,
+        "website": "https://tether.to",
+        "coingeckoId": "tether",
+        "explorerUrl": "https://basescan.org/token/0x72742A7323fde43240f1A80617cdD888A0a90DB6"
+      }
     }
   ]
 }

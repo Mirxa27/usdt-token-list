@@ -1,1 +1,17 @@
-{"name":"USDT","symbol":"USDT","description":"USDT (Tether USD) — stablecoin, value $1","image":"https://assets.coingecko.com/coins/images/325/large/Tether.png"}
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Tether USD (USDT) is a stablecoin pegged to $1.00 USD.",
+  "decimals": 6,
+  "image": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+  "icon": "https://raw.githubusercontent.com/Mirxa27/usdt-token-list/main/assets/0x72742A7323fde43240f1A80617cdD888A0a90DB6/logo.png",
+  "external_url": "https://tether.to",
+  "coingeckoId": "tether",
+  "priceUsd": 1.0,
+  "color": "#26A17B",
+  "address": "0x72742A7323fde43240f1A80617cdD888A0a90DB6",
+  "social": {
+    "twitter": "https://twitter.com/Tether_to",
+    "website": "https://tether.to"
+  }
+}
