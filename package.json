@@ -1,0 +1,24 @@
+{
+  "name": "usdt-token-list",
+  "version": "1.0.0",
+  "description": "Standard [Uniswap/MetaMask token list](https://docs.uniswap.org/contracts/v2/reference/core-contracts/token-list) for the Tether USD (USDT) BEP-20 token on BNB Smart Chain (chainId 56).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirxa27/usdt-token-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirxa27/usdt-token-list/issues"
+  },
+  "homepage": "https://github.com/Mirxa27/usdt-token-list#readme",
+  "dependencies": {
+    "ethers": "^5.8.0",
+    "ganache": "^7.9.2"
+  }
+}
